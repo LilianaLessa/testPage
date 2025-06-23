@@ -1,0 +1,3 @@
+handleClick() {
+  alert('Button clicked!');
+}
