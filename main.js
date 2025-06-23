@@ -1,3 +1,3 @@
-handleClick() {
+function handleClick() {
   alert('Button clicked!');
 }
